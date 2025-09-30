@@ -38,6 +38,7 @@ Persistence: File I/O (tasks.txt)
 ---
 
 📂 **Project Structure (Eclipse)**  
+
 ToDoApp/  
  ├── .classpath  
  ├── .project  
@@ -51,6 +52,7 @@ ToDoApp/
  ---
 
  ▶️ **How to Run**  
+ 
  Run in Eclipse  
 
 1.Create a new Java Project ToDoApp.  
